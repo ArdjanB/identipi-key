@@ -1,0 +1,17 @@
+build
+!.vscode/*
+
+# Private key material, OTP dumps, and dated/internal working notes --
+# never publish these. See Private/ itself for what's actually in there.
+Private/
+
+# Real key files, wherever they might end up despite the above
+*.pem
+privateaes.bin
+ivsalt.bin
+otp-*.json
+otp_dump.txt
+otp_list*.txt
+
+# Local Claude Code runtime state (not project config)
+.claude/
