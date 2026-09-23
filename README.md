@@ -5,8 +5,8 @@ a stored password. No app, no network, no cloud — the password never
 leaves the device except as keystrokes typed directly into whatever has
 keyboard focus.
 
-Built on a Raspberry Pi Pico 2 W (RP2350) and the SB Components IdentiPi
-HAT (display, fingerprint sensor, joystick).
+Built on a Raspberry Pi Pico 2 W (RP2350) and the [SB Components IdentiPi
+HAT](https://github.com/sbcshop/IdentiPi_Software) (display, fingerprint sensor, joystick).
 
 ## Features
 
