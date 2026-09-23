@@ -91,6 +91,13 @@ documentation — see `CLAUDE.md` for the complete list:
    success, not a status code — SB's own demo code gets this wrong and
    reports successful matches as failures.
 
+## Licence
+
+MIT — see [Licence.md](Licence.md). This software comes **as is, with no
+warranty**. The provisioning steps make permanent OTP writes that can
+permanently brick a board, and nobody has audited the security design. Read
+the disclaimer in `Licence.md` before building or provisioning a device.
+
 ## Acknowledgments
 
 The majority of this project's firmware — architecture, implementation,
